@@ -1,1 +1,1 @@
-alx-zero_day project folder
+alx-zero_day project
